@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Jokes</string>
+    <string name="notNetworkConnection">Извините, сударь, но кажется у вас нет подключения к сети!</string>
 </resources>
